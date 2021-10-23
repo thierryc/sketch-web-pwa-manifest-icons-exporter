@@ -1,11 +1,13 @@
 # sketch-web-pwa-manifest-icons-exporter
 
-The anotherplanet.io Logo is not open source.
-It is just an example.
+The anotherplanet.io Logo is copyrighted. It is not open source. You can use it as an exemple, but you can't use it as a logo for your project.
+It is just an example. Please do not use it, but replace it by yours into the icon-color symbol.
+
+LICENSE: MIT
 
 WIP
 
-Please do not use it, but replace it by yours into the icon-color symbol.
+
 
 All other icon will be replaced by the icon-color symbol.
 
