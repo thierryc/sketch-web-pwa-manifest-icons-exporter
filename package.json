@@ -1,0 +1,19 @@
+{
+  "name": "sketch-web-pwa-manifest-icons-exporter",
+  "version": "1.0.0",
+  "description": "Sketch Icons Exporter for Instalable WEB PWA app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Sketch",
+    "Web",
+    "PWA",
+    "Manifest",
+    "Icons",
+    "Exporter"
+  ],
+  "author": "Thierry Charbonnel",
+  "license": "MIT"
+}
